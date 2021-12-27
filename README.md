@@ -10,7 +10,7 @@
 <!-- [![Alt text](0.png)](https://www.youtube.com/watch?v=pp5F3g9YzWU&t) -->
 
 <p align="center">
-  <img src="https://github.com/vanshils/meam520_labs/blob/master/labs/pickandplacereallife.gif" />
+  <img src="/labs/pickplacereallife.gif" />
 </p>
 
 
