@@ -10,7 +10,7 @@
 <!-- [![Alt text](0.png)](https://www.youtube.com/watch?v=pp5F3g9YzWU&t) -->
 
 <p align="center">
-  <img src="/labs/pickplacereallife.gif" />
+  <img src="/labs/pickandplacereallife.gif" />
 </p>
 
 
